@@ -7,5 +7,5 @@ This Post is related to my learning experience of Scala
  *With Object Oriented concepts you can lean into functional Programming as much as or little as you'd like*  
  *Scala compiles the Java byte code and runs on JVM.*  
 
-1. [Scala Basics](Understanding-Scala/Basics/README.md)
+1. [Scala Basics](https://github.com/sagpat/Understanding-Scala/tree/master/Basics/README.md)
 
