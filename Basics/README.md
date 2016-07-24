@@ -1,11 +1,10 @@
 
 # Pythogorian Problem
 
- def ProjectEuler(): Unit = {
-    
-    // Problem 9
+
+// Problem 9
     // Special Pythagorean triplet
-    
+ def ProjectEuler(): Unit = {
     
     var first = 0
     var second = 0
