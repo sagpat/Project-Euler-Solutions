@@ -1,11 +1,7 @@
-# Understanding-Scala
+# Project Euler Solutions in Scala
 
-This Post is related to my learning experience of Scala
+This repository is related to my solutions to project Euler.
 
-* Scala needs no explanation but my defination of Scala goes something like this-  
- *Scala is a bond between Functional Programming and Object Oriented Programming.*  
- *With Object Oriented concepts you can lean into functional Programming as much as or little as you'd like*  
- *Scala compiles the Java byte code and runs on JVM.*  
-
-1. [Scala Basics](https://github.com/sagpat/Understanding-Scala/tree/master/Basics/README.md)
+* 
+1. [Pythogorian Problem](https://github.com/sagpat/Understanding-Scala/tree/master/Basics/README.md)
 
