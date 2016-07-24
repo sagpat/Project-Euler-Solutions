@@ -2,8 +2,8 @@
 # Pythogorian Problem
 
 
-// Problem 9
-    // Special Pythagorean triplet  
+// Problem 9  
+// Special Pythagorean triplet  
     
  def ProjectEuler(): Unit = {
     
