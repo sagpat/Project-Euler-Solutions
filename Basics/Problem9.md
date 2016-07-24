@@ -1,5 +1,5 @@
 
-# Pythogorian Problem
+#Pythagorean Problem
 
 
 // Problem 9  
