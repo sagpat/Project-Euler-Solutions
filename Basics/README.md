@@ -3,7 +3,8 @@
 
 
 // Problem 9
-    // Special Pythagorean triplet
+    // Special Pythagorean triplet  
+    
  def ProjectEuler(): Unit = {
     
     var first = 0
@@ -31,9 +32,7 @@
                product = first * second * third
               
             }
-       
       }
-       
     }
     println(product)
   }
