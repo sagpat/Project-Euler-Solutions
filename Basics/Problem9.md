@@ -8,10 +8,10 @@
  `def ProjectEuler(): Unit = `
  `{`
     
-   `var first = 0`
-   `var second = 0`
-   `var third = 0`
-   `var product = 0`
+   `var first = 0`  
+   `var second = 0`  
+   `var third = 0`  
+   `var product = 0`  
     
     for(first <- 1 to 1000)  
     {  
